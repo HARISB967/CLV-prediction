@@ -1,2 +1,21 @@
+# Core packages
 Flask==2.0.3
 pandas==1.5.3
+
+# Flask dependencies
+Werkzeug==2.0.3
+Jinja2==3.0.3
+Click==8.0.3
+MarkupSafe==2.0.1
+itsdangerous==2.0.1
+
+# pandas dependencies
+numpy==1.21.6
+python-dateutil==2.8.2
+pytz==2021.3
+
+# Additional useful packages
+Flask-WTF==1.0.1        # For form handling in Flask
+Flask-Login==0.5.0      # For user session management
+Flask-SQLAlchemy==2.5.1 # For SQL database integration
+requests==2.26.0        # For making HTTP requests (often useful in Flask apps)
