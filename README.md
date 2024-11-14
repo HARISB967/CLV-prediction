@@ -1,5 +1,7 @@
 #Customer Lifetime Value (CLV) Prediction:
 
+live render link: https://clv-prediction.onrender.com/
+
 Overview
 This project aims to predict Customer Lifetime Value (CLV) by analyzing customer purchasing patterns using machine learning models. We implement LSTM, Prophet, and ARIMA models to forecast future purchasing behavior and calculate the CLV.
 
